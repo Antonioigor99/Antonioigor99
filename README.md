@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Antônio
 
-🚀 Desenvolvedor Front-End apaixonado por criar soluções modernas e intuitivas.  
+🚀 Desenvolvedor Full-Stack apaixonado por criar soluções modernas e intuitivas.  
 💼 Fundador da WebLumi | Especialista em criação de sites e sistemas para pequenos negócios.  
 📱 Criador do app **Orçai**, um sistema de orçamentos inteligente para autônomos.
 
