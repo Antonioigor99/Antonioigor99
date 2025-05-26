@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Antônio
 
-<!--
-**Antonioigor99/Antonioigor99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor Front-End apaixonado por criar soluções modernas e intuitivas.  
+💼 Fundador da WebLumi | Especialista em criação de sites e sistemas para pequenos negócios.  
+📱 Criador do app **Orçai**, um sistema de orçamentos inteligente para autônomos.
 
-Here are some ideas to get you started:
+### ⚙️ Tecnologias
+- React, React Native
+- Firebase, Node.js
+- TailwindCSS, ShadCN UI
+- MongoDB, Express
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Contato
+- 🌐 [weblumi.com.br](https://weblumi.com.br)
+- 📸 [Instagram @weblumi](https://instagram.com/weblumi)
+- 💼 [LinkedIn](https://linkedin.com/in/seu-usuario)
+
+> Em constante evolução e aprendizado!
