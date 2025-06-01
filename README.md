@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Antônio
+# 👋 Olá! Eu sou o Antônio Igor
 
 🚀 Desenvolvedor Full-Stack apaixonado por criar soluções modernas e intuitivas.  
 💼 Fundador da WebLumi | Especialista em criação de sites e sistemas para pequenos negócios.  
