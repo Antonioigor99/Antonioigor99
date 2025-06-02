@@ -25,6 +25,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
 </div>
 
+### 📈 Estatísticas GitHub
+
+![Antonio Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antonioigor99&show_icons=true&theme=tokyonight)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonioigor99&layout=compact&theme=tokyonight)
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Antonioigor99&theme=tokyo-night)
+
 
 ### 📬 Contato
 - 🌐 [weblumi.com.br](https://weblumi.com.br)
